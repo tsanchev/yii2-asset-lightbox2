@@ -1,4 +1,4 @@
-hiqdev/yii2-asset-lightbox2 changelog
+tsanchev/yii2-asset-lightbox2 changelog
 -------------------------------------
 
 ## 2.8.2.1 2016-03-28

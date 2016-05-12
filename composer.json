@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/yii2-asset-lightbox2",
+    "name": "tsanchev/yii2-asset-lightbox2",
     "type": "yii2-extension",
     "description": "Yii2 asset for bower LightBox2",
     "keywords": [
@@ -8,39 +8,21 @@
         "extension",
         "yii2"
     ],
-    "homepage": "https://github.com/hiqdev/yii2-asset-lightbox2",
+    "homepage": "https://github.com/tsanchev/yii2-asset-lightbox2",
     "license": "BSD-3-Clause",
     "support": {
-        "email": "support@hiqdev.com",
-        "source": "https://github.com/hiqdev/yii2-asset-lightbox2",
-        "issues": "https://github.com/hiqdev/yii2-asset-lightbox2/issues",
-        "wiki": "https://github.com/hiqdev/yii2-asset-lightbox2/wiki",
-        "forum": "http://forum.hiqdev.com/yii2"
+        "email": "support@tsanchev.com",
+        "source": "https://github.com/tsanchev/yii2-asset-lightbox2",
+        "issues": "https://github.com/tsanchev/yii2-asset-lightbox2/issues",
+        "wiki": "https://github.com/tsanchev/yii2-asset-lightbox2/wiki",
+        "forum": "http://forum.tsanchev.com/yii2"
     },
     "authors": [
         {
-            "name": "Andrii Vasyliev",
-            "role": "Project lead",
-            "email": "sol@hiqdev.com",
-            "homepage": "http://hipanel.com/"
-        },
-        {
-            "name": "Dmitry Naumenko",
-            "role": "Lead backend developer",
-            "email": "silverfire@hiqdev.com",
-            "homepage": "http://silverfire.me/"
-        },
-        {
-            "name": "Andrey Klochok",
-            "role": "Lead frontend developer",
-            "email": "tafid@hiqdev.com",
-            "homepage": "http://hiqdev.com/"
-        },
-        {
-            "name": "Yuriy Myronchuk",
-            "role": "QA Lead",
-            "email": "bladeroot@hiqdev.com",
-            "homepage": "http://hiqdev.com/"
+            "name": "Anton Tsanchev",
+            "role": "contributor",
+            "email": "tsanchev@gmail.com",
+            "homepage": "http://tsanchev.com/"
         }
     ],
     "require": {
@@ -49,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\assets\\lightbox2\\": "src"
+            "tsanchev\\assets\\lightbox2\\": "src"
         }
     },
     "extra": {
