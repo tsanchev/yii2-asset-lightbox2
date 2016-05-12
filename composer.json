@@ -9,10 +9,6 @@
         "yii2"
     ],
     "license": "BSD-3-Clause",
-    "support": {
-        "email": "tsanchev@gmail.com",
-        "source": "https://github.com/tsanchev/yii2-lightbox2"
-    },
     "authors": [
         {
             "name": "Anton Tsanchev",
@@ -25,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tsanchev\\lightbox2\\": "src"
+            "tsanchev\\lightbox2\\": ""
         }
     },
     "extra": {
