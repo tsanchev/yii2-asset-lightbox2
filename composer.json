@@ -8,27 +8,24 @@
         "extension",
         "yii2"
     ],
-    "homepage": "https://github.com/tsanchev/yii2-asset-lightbox2",
     "license": "BSD-3-Clause",
     "support": {
         "email": "tsanchev@gmail.com",
-        "source": "https://github.com/tsanchev/yii2-asset-lightbox2",
+        "source": "https://github.com/tsanchev/yii2-asset-lightbox2"
     },
     "authors": [
         {
             "name": "Anton Tsanchev",
-            "role": "contributor",
-            "email": "tsanchev@gmail.com",
-            "homepage": "http://tsanchev.com/"
+            "email": "tsanchev@gmail.com"
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0",
-        "bower-asset/lightbox2": "2.8.1"
+        "yiisoft/yii2": "*",
+        "bower-asset/lightbox2": "*"
     },
     "autoload": {
         "psr-4": {
-            "tsanchev\\assets\\lightbox2\\": "src"
+            "tsanchev\\lightbox2\\": "src"
         }
     },
     "extra": {

@@ -8,7 +8,7 @@
  * @license   BSD-3-Clause
  */
 
-namespace tsanchev\assets\lightbox2;
+namespace tsanchev\lightbox2;
 
 class LightboxAsset extends \yii\web\AssetBundle
 {
