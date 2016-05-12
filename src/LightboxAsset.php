@@ -3,7 +3,7 @@
 /*
  * Yii 2 asset for bower LightBox2
  *
- * @link      https://github.com/hiqdev/yii2-asset-lightbox2
+ * @link      https://github.com/tsanchev/yii2-asset-lightbox2
  * @package   yii2-asset-lightbox2
  * @license   BSD-3-Clause
  */
