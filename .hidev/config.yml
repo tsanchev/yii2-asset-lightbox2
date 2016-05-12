@@ -4,8 +4,8 @@ package:
     title:          Yii2 asset for bower LightBox2
     headline:       Yii2 LightBox2 assets
     keywords:       lightbox2, asset, extension, yii2
-    namespace:      hiqdev\assets\lightbox2
+    namespace:      tsanchev\assets\lightbox2
 
 require:
-    hiqdev/hidev-php:       "*"
-    hiqdev/hidev-vendor:    "*"
+    tsanchev/hidev-php:       "*"
+    tsanchev/hidev-vendor:    "*"
