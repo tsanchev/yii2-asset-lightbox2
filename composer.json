@@ -11,11 +11,8 @@
     "homepage": "https://github.com/tsanchev/yii2-asset-lightbox2",
     "license": "BSD-3-Clause",
     "support": {
-        "email": "support@tsanchev.com",
+        "email": "tsanchev@gmail.com",
         "source": "https://github.com/tsanchev/yii2-asset-lightbox2",
-        "issues": "https://github.com/tsanchev/yii2-asset-lightbox2/issues",
-        "wiki": "https://github.com/tsanchev/yii2-asset-lightbox2/wiki",
-        "forum": "http://forum.tsanchev.com/yii2"
     },
     "authors": [
         {
