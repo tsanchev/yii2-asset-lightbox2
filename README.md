@@ -8,7 +8,7 @@ The preferred way to install this yii2-extension is through [composer](http://ge
 Either run
 
 ```sh
-php composer.phar require "tsanchev/yii2-lightbox2"
+composer require "tsanchev/yii2-lightbox2"
 ```
 
 or add
