@@ -19,6 +19,22 @@ or add
 
 to the require section of your composer.json.
 
+## Usage
+
+Include in view
+
+```php
+ use tsanchev\lightbox2\LightboxAsset;
+ 
+ LightboxAsset::register($this);
+ ```  
+        
+ or in asset file
+ 
+ ```php
+ 'tsanchev\lightbox2\LightboxAsset',
+ ```
+
 ## License
 
 This project is released under the terms of the BSD-3-Clause [license](LICENSE).
