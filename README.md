@@ -1,6 +1,8 @@
 Yii2 LightBox2 assets
 =====================
 
+This is asset for using [Lightbox2](https://github.com/lokesh/lightbox2)
+
 ## Installation
 
 The preferred way to install this yii2-extension is through [composer](http://getcomposer.org/download/).
