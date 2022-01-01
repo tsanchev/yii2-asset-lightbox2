@@ -17,7 +17,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/lightbox2": "*"
+        "npm-asset/lightbox2": "*"
     },
     "autoload": {
         "psr-4": {
